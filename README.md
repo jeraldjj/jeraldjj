@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm [Jerald Josit John] 👋  
 
-<!--
-**jeraldjj/jeraldjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computing for Business Student @ [DCU]**  
+🌍 Based in Dublin  
+🎯 Passionate about **Software Engineering, AI/ML, and FinTech**  
+⚡ Always learning & building projects in **Python, Java and Django**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 3rd Year Computing for Business student at **Dublin City University (DCU)**  
+- 🌐 Interested in **software development, cloud computing, and project management**  
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, Java, JavaScript, SQL
+- **Frameworks:** React, Django 
+- **Tools:** Git, GitHub, VS Code
+- **Databases:** MySQL  
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](www.linkedin.com/in/jerald-john-jjj)  
+- 📧 [Email Me](jeraldjjohn@gmail.com)  
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
