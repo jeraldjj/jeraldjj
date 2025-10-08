@@ -1,30 +1,22 @@
-# Hi there, I'm [Jerald Josit John] 👋  
-
-💻 **Computing for Business Student @ [DCU]**  
-🌍 Based in Dublin  
-🎯 Passionate about **Software Engineering, AI/ML, and FinTech**  
-⚡ Always learning & building projects in **Python, Java and Django**  
-
----
-
-## 🚀 About Me
-- 🎓 3rd Year Computing for Business student at **Dublin City University (DCU)**  
-- 🌐 Interested in **software development, cloud computing, and project management**  
+# Hi there, I'm Jerald Josit John 
+ **Computing for Business Student @ [DCU]**  
+ Based in Dublin  
+ Passionate about **Software Engineering, AI/ML, and FinTech**  
+ Always learning & building projects in **Python, Java and Django**  
 
 ---
 
-## 🛠 Tech Stack
+##  About Me
+- 3rd Year Computing for Business student at **Dublin City University (DCU)**  
+- Interested in **software development, cloud computing, and project management**  
+
+---
+
+## Tech Stack
 - **Languages:** Python, Java, JavaScript, SQL
 - **Frameworks:** React, Django 
 - **Tools:** Git, GitHub, VS Code
 - **Databases:** MySQL  
-
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
